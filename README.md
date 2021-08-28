@@ -1,5 +1,7 @@
 # CockroachDB-Crud
-![chris-ried-ieic5Tq8YMk-unsplash](https://user-images.githubusercontent.com/66557300/131222742-7640116e-af34-4c4d-8395-86ba51d56ac2.jpg)
+![alt text](https://github.com/amaravindmenon/CockroachDB-Crud/blob/main/Screenshot%202021-08-28%20at%204.56.01%20PM.png)
+![alt text](https://github.com/amaravindmenon/CockroachDB-Crud/blob/main/Screenshot%202021-08-28%20at%205.13.19%20PM.png)
+![alt text](https://github.com/amaravindmenon/CockroachDB-Crud/blob/main/Screenshot%202021-08-28%20at%205.13.30%20PM.png)
 
 
 
